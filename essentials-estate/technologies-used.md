@@ -6,6 +6,7 @@ nav_order: 2
 ---
 
 # Technologies Used
+{: .fs-9 }
 
 | Category        | Stack                   |
 | :-------------- | :---------------------- |

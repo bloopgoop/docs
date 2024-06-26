@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # What I learned
+{: .fs-9 }
 
 <details open markdown="block">
   <summary>

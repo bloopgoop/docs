@@ -5,6 +5,7 @@ parent: Simplify
 nav_order: 3
 ---
 # Features
+{: .fs-9 }
 
 ## v1.0.0 Features
 - Offline audio playback
