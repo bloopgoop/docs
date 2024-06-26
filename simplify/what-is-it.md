@@ -12,7 +12,7 @@ Simplify is a desktop application that provides a fully offline music player exp
 
 ---
 
-![Demo](/assets/gifs/simplify.gif)
+![Demo](../assets/gifs/simplify.gif)
 
 
 ## Key Features

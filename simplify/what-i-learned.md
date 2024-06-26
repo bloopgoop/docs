@@ -91,9 +91,9 @@ function playerReducer(state: Player, action) {
 Overall, the reducer function is less complex and rerenders the component less times.
 
 ## TanStack Table
-[TanStack Table] is a versatile library for building and manageing data tables in web applications. I used this when creating the playlists table which holds the title, artist, album, duration, etc... for a song. 
+[TanStack Table] is a versatile library for building and managing data tables in web applications. I used this when creating the playlists table which holds the title, artist, album, duration, etc... for a song. 
 
-![Playlist](/assets/images/playlist.png)
+![Playlist](../assets/images/playlist.png)
 
 Here is one core component of a TanStack Table:
 
